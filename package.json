@@ -1,5 +1,6 @@
 {
   "name": "doctor-appointment",
+  "homepage":"https://madas02d.github.io/doctor_appointment/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
